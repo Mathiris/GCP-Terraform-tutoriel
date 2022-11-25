@@ -8,4 +8,4 @@ Tutoriel https://cloud.google.com/docs/terraform/get-started-with-terraform
 ![plot](./image/Capture2.JPG)
 
 ## Result 
-![plot](./image/Capture3.JPG)
+![plot](./image/Capture3.jpg)
