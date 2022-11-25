@@ -1,0 +1,12 @@
+mkdir tf-tutorial
+cd tf-tutorial
+nano main.tf
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+terraform init
+terraform plan
+terraform apply
+terrafrom apply
+terraform apply
